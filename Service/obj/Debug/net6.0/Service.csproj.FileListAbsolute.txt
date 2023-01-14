@@ -1,0 +1,15 @@
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\bin\Debug\net6.0\Service.deps.json
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\bin\Debug\net6.0\Service.dll
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\bin\Debug\net6.0\Service.pdb
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\bin\Debug\net6.0\Core.dll
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\bin\Debug\net6.0\Core.pdb
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.dll
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\refint\Service.dll
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\Service.pdb
+D:\2022-2023-1\CHTDTTT\BTL\KnowledgeBasedSystem\Service\obj\Debug\net6.0\ref\Service.dll
